@@ -27,7 +27,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
+  - jemoji
 host: 0.0.0.0
 
 
